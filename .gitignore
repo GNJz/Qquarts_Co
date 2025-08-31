@@ -5,3 +5,17 @@ __pycache__/
 figures/
 runs/
 outputs/
+# OS / Python noise
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# build / env
+dist/
+build/
+*.egg-info/
+.venv/
+venv/
