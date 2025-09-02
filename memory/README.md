@@ -1,1 +1,0 @@
-# Qquarts_Memory

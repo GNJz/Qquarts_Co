@@ -1,1 +1,0 @@
-# qquarts_ent
